@@ -1,4 +1,4 @@
-### Hi there :pencil2:
+### Hi there :page_with_curl:
 
 Eo sou Felippe Daniel,sou um programador Front End,atualmente estou aprendendo e criando projetos com:
 
