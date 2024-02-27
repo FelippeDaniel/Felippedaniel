@@ -1,4 +1,4 @@
-### Hi there :page_with_curl:
+### Hi there :sunglasses:
 
 Sou Felippe Daniel,sou um programador Front End
 
