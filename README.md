@@ -4,6 +4,8 @@ Sou Felippe Daniel,sou um programador Front End
 
 atualmente estou aprendendo e criando projetos com:
 
+##
+
 <h3 align="center">Languages and Tools</h3>
 <div style="display: inline_block" align='center'><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,6 +15,8 @@ atualmente estou aprendendo e criando projetos com:
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
+
+##
 
 
 
