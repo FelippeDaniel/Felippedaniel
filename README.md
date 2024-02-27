@@ -19,6 +19,24 @@ atualmente estou aprendendo e criando projetos com:
 ##
 
 
+### Connect with me:
+
+<p>
+<a href="https://www.instagram.com/felipperj_021">
+<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/felippe-daniel/">
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+</p>
+<br />
+<br />
+
+
+##
+
+
+
 
 
 [![Felippe stats](https://github-readme-stats.vercel.app/api?username=felippedaniel)](https://github.com/anuraghazra/github-readme-stats)
